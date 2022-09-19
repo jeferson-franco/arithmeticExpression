@@ -1,0 +1,20 @@
+{
+  "name": "arithmeticexpression",
+  "version": "1.0.0",
+  "description": "Consider an arithmetic expression of the form `a#b=c`. Check whether it is possible to replace `#` with one of the four signs: `+`, `-`, `*` or `/` to obtain a correct expression.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/arithmeticExpression.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/arithmeticExpression/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/arithmeticExpression#readme"
+}
